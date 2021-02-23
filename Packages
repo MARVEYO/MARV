@@ -6,9 +6,9 @@ Depends: يفضل اصدار9.1.2 للتطبيق
 Conflicts: لايوجد تعارضات
 Filename: موقع الملف
 Size: 
-MD5sum: 
-SHA1: 
-SHA256: 
+MD5sum: 73d8c551d364884cfa86b38884a3550e
+SHA1: 2ca4135965b2ece34b3f76578d496494a5652b8f
+SHA256: eb59cef5eab6b244d811993036af69fd7ac1ad47e1ae1d8ddef546eadd107197
 Section: Tweaks
 Depiction: https://marveyo.github.io/MARV/ 
 Name: Video Star Hack 
