@@ -1,1 +1,15 @@
+Package: null 
+Version: V1.0.2
+Architecture: iphoneos-arm
+Maintainer: MARV
+Depends: يفضل اصدار9.1.2 للتطبيق 
+Conflicts: لايوجد تعارضات
+Filename: موقع الملف
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Tweaks
+Depiction: https://marveyo.github.io/MARV/ 
+Name: Video Star Hack 
 
